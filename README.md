@@ -1,10 +1,13 @@
 # GH4PIN01 Module: MLAB to PixHawk 4PIN interface
 
-![](doc/src/img/GH4PIN01-small.jpg)
+![GH4PIN01 mounted on ALBASE](doc/src/img/GH4PIN01-small.jpg)
 
 
 ## Overview
 The GH4PIN01 Module is a 4-pin adapter that converts JST-GH connectors, commonly used in [PixHawk](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009%20Pixhawk%20Connector%20Standard.pdf) avionics, to standard pin headers. This module includes two JST-GH connectors and supports I2C or CAN bus communication, making it a versatile and essential component in the MLAB system for integrating various electronic devices.
+
+![GH4PIN01 top view](doc/gen/img/GH4PIN01-top.png) ![GH4PIN01 bottow view](doc/gen/img/GH4PIN01-bottom.png)
+
 
 ## Features
 - **Dual JST-GH Connectors**: Provides increased connectivity options.
